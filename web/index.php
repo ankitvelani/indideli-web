@@ -161,7 +161,7 @@ Get notified by email when it's ready!</p>
   <div class="social-icons">
     <ul class="list-unstyled text-center mb-0">
       <li class="list-unstyled-item">
-        <a href="#">
+        <a href="https://twitter.com/indideli">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -171,7 +171,7 @@ Get notified by email when it's ready!</p>
         </a>
       </li>
       <li class="list-unstyled-item">
-        <a href="#">
+        <a href="https://www.instagram.com/myindideli/">
           <i class="fab fa-instagram"></i>
         </a>
       </li>
